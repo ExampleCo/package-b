@@ -1,13 +1,5 @@
-# boilerplate-typescript-package
+# @exampleco/package-b
 
-Boilerplate for a TypeScript npm package
+Example TypeScript package
 
-Includes
-
-- Jest TypeScript configuration
-- ESLint rules
-- `editorconfig` rules & enforcement
-- GitHub CI - build, lint & test
-- Automated GitHub releases on version tags
-- Dependabot configuration
-- VSCode settings
+[![ci](https://github.com/exampleco/package-b/workflows/ci/badge.svg)](https://github.com/exampleco/package-b/actions/workflows/ci.yml)
